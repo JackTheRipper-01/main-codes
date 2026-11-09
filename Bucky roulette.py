@@ -169,4 +169,4 @@ while not round==3:
                     dealerinven.remove('구급상자')
                     print('딜러는 구급상자를 사용했다.')
                 if '돋보기' in dealerinven:
-                    
+                    pass
